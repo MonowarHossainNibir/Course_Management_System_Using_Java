@@ -1,0 +1,63 @@
+Course Name: : Object Oriented Programming
+Title: : CSE110
+Section: : 5
+Faculty: : Mahumudul Hasan Munna
+Student: : 30
+
+
+Course Name: : Object Oriented Programming
+Title: : CSE103
+Section: : 6
+Faculty: : Mohammad Mohsin Uddin
+Student: : 25
+
+
+Course Name: : Dufferential and Pertial Equation
+Title: : MAT102
+Section: : 6
+Faculty: : Shaidul Islam Shoid(SIS)
+Student: : 40
+
+
+Course Name: : Electrical and Electronic Circuits
+Title: : CSE209
+Section: : 2
+Faculty: : Rashedul Alam Thuin
+Student: : 34
+
+
+Course Name: : Quantum Physics
+Title: : PHY209
+Section: : 7
+Faculty: : DJIK
+Student: : 40
+
+
+Course Name: : Co-ordinate Geometry & Vector Analysis
+Title: : MAT104
+Section: : 1
+Faculty: : Nazia Afrin
+Student: : 0
+
+
+Course Name: : Bangla First Paper
+Title: : BANG101
+Section: : 5
+Faculty: : Nibir
+Student: : 78
+
+
+Course Name: : Emergence of Bangladesh
+Title: : GEN226
+Section: : 2
+Faculty: : FAZ
+Student: : 30
+
+
+Course Name: : hindi
+Title: : hindi101
+Section: : 2
+Faculty: : XYZ
+Student: : 30
+
+
